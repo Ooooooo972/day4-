@@ -1,0 +1,29 @@
+*{
+    margin: 10;
+    padding: auto;
+     text-decoration: none;
+     text-align: center;
+     align-items: center;
+
+    justify-content: center;
+
+
+}
+body{
+    background-color: rgb(27, 233, 16);
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: auto;
+    margin: 12px;
+    width: 60%;
+    height: 50px;
+    text-size-adjust: auto;
+}
+button{
+    padding: 20px;
+    width: 12%;
+    height: 13%;
+    margin: 9px;
+}
